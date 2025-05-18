@@ -95,7 +95,7 @@ def preprocess_file(file, stop_words, numbers=0, freq_threshold=None):
 # Tests of the function (with the document "Data_1.txt")
 
 ## First try without any particular parameter
-file_name = "Mathias_Lommel_DATA.txt"
+file_name = "data.txt"
 stop_words = []
 
 print("*************** First test : no special parameter ****************") 
